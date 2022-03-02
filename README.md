@@ -1,12 +1,10 @@
-![Banner Image](https://github.com/gkhan205/gkhan205/blob/master/image/Banner.png)
-
 ## Hi there 👋
 
 I am **Rizki Harahap**. I'm a **Web Developer** and **UX Designer**. Javascript makes web development fast and performs well, of course I use that along with React.
 
 Vist my **[Blog](https://happinest.netlify.app/)**
 
-[![Linkedin: Rizki](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizki-harahap/)](https://www.linkedin.com/in/ghazi-khan/)
+[![Linkedin: Rizki](https://img.shields.io/badge/-Rizki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizki-harahap/)](https://www.linkedin.com/in/rizki-harahap/)
 ---
 
 - 🌱 I’m currently learning **Frontend Development - Next Js**
