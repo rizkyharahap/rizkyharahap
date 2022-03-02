@@ -1,4 +1,4 @@
-<video align="left" src="https://github.com/rizkyharahap/rizkyharahap/blob/master/avatar-rizky-harahap.webm">
+<img align="left" src="https://github.com/rizkyharahap/rizkyharahap/blob/master/avatar.avifs">
        
 ## Hi there 👋
 
