@@ -8,8 +8,6 @@ Vist my **[Blog](https://happinest.netlify.app/)**
 ---
 
 - 🌱 I’m currently learning **Frontend Development - Next Js**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Linkedin](https://www.linkedin.com/in/rizki-harahap/), [Instagram](https://www.instagram.com/rizky_haphap/)**
@@ -17,5 +15,3 @@ Vist my **[Blog](https://happinest.netlify.app/)**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyharahap&layout=compact&theme=dark&hide_border=true)
 
 ![Rizki's github stats](https://github-readme-stats.vercel.app/api?username=rizkyharahap&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/rizkyharahap/github-profile-trophy)
