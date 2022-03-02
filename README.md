@@ -1,3 +1,5 @@
+<video align="left" src="https://github.com/rizkyharahap/rizkyharahap/blob/master/avatar-rizky-harahap.webm">
+       
 ## Hi there 👋
 
 I am **Rizki Harahap**. I'm a **Web Developer** and **UX Designer**. Javascript makes web development fast and performs well, of course I use that along with React.
